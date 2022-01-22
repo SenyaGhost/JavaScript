@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+}
+
+div {
+    alignment: center;
+    width: 300px;
+    height: 300px;
+}
+
+input {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    width: 50%;
+    padding: 10px;
+    margin-left: 860px;
+    margin-right: 75px;
+    margin-top: 20px;
+    margin-bottom: 0.5%;
+    box-sizing: border-box;
+    color: green;
+    background: black;
+}
+
+button {
+    alignment: center;
+    margin-left: 925px;
+    margin-top: 20px;
+    font-family: "Comic Sans MS";
+    background: black;
+    color: green;
+}
+
+h3 {
+    color: green;
+    font-family: "Comic Sans MS";
+    text-align: justify;
+    text-shadow: 0 1.5px 0 rgba(25,0,0,0.5);
+    font-size: 15px;
+    margin-left: 920px;
+}
